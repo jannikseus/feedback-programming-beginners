@@ -1,5 +1,5 @@
 package booking;
 
 public enum DiscountType {
-    NONE
+    NONE, CHRISTMAS, EASTER, HALLOWEEN, THANKSGIVING;
 }
