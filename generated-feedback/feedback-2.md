@@ -23,7 +23,9 @@ CBM: Coupling Between Methods (quality oriented extension to C&ampK metric suite
 AMC: Average Method Complexity (quality oriented extension to C&ampK metric suite)
 CC: McCabe's Cyclomatic Complexity
 ```
+
 ### Output
+```
 Booking 7 1 0 12 16 0 0 12 2 0,6389 147 0,0000 0 0,0000 0,2262 0 0 18,2857
 ~ public void <init>(BookingId id, java.time.LocalDateTime startDate, java.time.LocalDateTime endDate, CustomerId customerId, CustomerName customerName, EmailAddress customerEmail, BookingType bookingType, DiscountType discountType, DiscountValue discountValue, TaxType taxType, TaxValue taxValue, Rooms bookedRooms): 1
 ~ void printBookingData(): 1
@@ -40,4 +42,5 @@ MainBooking 7 1 0 18 34 21 0 18 2 2,0000 334 0,0000 0 0,0000 0,1667 0 0 46,7143
 ~ public static void main(String[] args): 1
 ~ private static Rooms getInitialRooms(): 1
 ~ private static Rooms getBookedRooms(Rooms rooms): 1
-~ public void <init>(): 1```
+~ public void <init>(): 1
+```
