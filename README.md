@@ -1,2 +1,4 @@
-# jannikseus-feedback-programming-beginners
-Example project that contains various code smells. This Java project is used to run various tools that analyze class design and metrics.
+# Validierung Feedback Tool
+
+## Umfrage über automatisch generiertes Feedback zu Klassendesign
+Dieses Repository wird für eine Umfrage zur Evalutation der Bachelorarbeit "Feedback For Programming Beginners - Software Complexity" genutzt. Hierzu sollen Expert:innen-Meinungen eingeholt werden, um zu validieren, ob die erstellte Software-Komponente tatsächlich verständliches Feedback zu Klassendesign für Studierende liefern kann. Die Umfrage bedient sich an einem kleinen Beispielprojekt, welches in diesem Repository bereitgestellt wird und einige Code Smells aufweist. Das implementierte Tool soll hierbei vergleichend in Bezug auf andere populäre Tools (bleiben im Folgenden unbenannt) analysiert werden. Die Teilnehmer:innen sollen anhand des generierten Feedbacks entscheiden, in welche der fünf Kategorien (je nach Verständlichkeit) das erzeugte Feedback fällt. Bei Rückfragen gerne eine Mail an seus@students.uni-marburg.de.
